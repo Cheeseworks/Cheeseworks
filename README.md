@@ -1,3 +1,2 @@
-# About Me
-### Programmer, content creator.
-Heya! I'm Chris, and I'm a content creator & programmer with emphasis on JS-based Discord bots, Roblox games, and Geometry Dash modding!
+# we gaming
+Heyo! I'm Chris, known online as Cheeseworks, and this is my lovely GitHub profile. Here you will find loads of hobby projects of mine, feel free to explore!
