@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.cheeseworks.gay/"><img src="https://cdn.discordapp.com/emojis/1566226959132917840.webp?size=1024&animated=true" width="65" /></a>
+<a href="https://www.cheeseworks.gay/"><img src="https://cdn.discordapp.com/emojis/1566226959132917840.webp?size=1024&animated=true" width="100" /></a>
 <h1>we gaming</h1>
 </div>
 
