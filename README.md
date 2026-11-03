@@ -5,6 +5,10 @@
 
 Heyo! I'm **Chris**, known online as [Cheeseworks](https://www.youtube.com/@cheese_works/), and I'm a queer 2X-year-old content creator and self-taught programmer. Welcome to my silly GitHub profile! Here you will find loads of interesting hobby projects of mine, feel free to explore! [<img src="https://cdn.discordapp.com/emojis/1548666057651134504.webp?size=1024" width="18" />](https://www.cheeseworks.gay/)
 
+<div align="center">
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://kofi.cheeseworks.gay/)
+</div>
+
 ## [<img src="https://cdn.discordapp.com/emojis/1325896195083604080.webp?size=1024" width="20" />](https://www.cheeseworks.gay/) Discord Bots
 **JavaScript**, **TypeScript**, **Go**, **C++**, **CMake**
 
@@ -22,15 +26,19 @@ An experimental, blazing-fast custom bot for [Cubic Studios's Discord server](ht
 My favorite passion projects I've worked on are mods made using the wonderful [Geode SDK](https://geode-sdk.org/) framework, which has done a ton to facilitate modding for Geometry Dash and therefore, some of my greatest personal work!
 
 ### [<img src="https://raw.githubusercontent.com/CubicCommunity/HorribleMenu/refs/heads/main/logo.png" width="20" />](https://breakeode.cubicstudios.xyz/mod/horrible-menu/) Horrible Menu
+[![Downloads](https://api.geode-sdk.org/v1/mods/cubicstudios.horriblemenu/status_badge?stat=downloads)](https://geode-sdk.org/mods/cubicstudios.horriblemenu) [![Geometry Dash Version](https://api.geode-sdk.org/v1/mods/cubicstudios.horriblemenu/status_badge?stat=gd_version)](https://geode-sdk.org/mods/cubicstudios.horriblemenu)
 A massive troll mod menu jam-packed with dozens of troll features to make your usual GD gameplay just a little more interesting to play... Truly an evil masterpiece.
 
 ### [<img src="https://raw.githubusercontent.com/BlueWitherer/PlayerAdvertisements/refs/heads/main/logo.png" width="20" />](https://ads.cheeseworks.gay/) Player Advertisements
+[![Downloads](https://api.geode-sdk.org/v1/mods/cheeseworks.ads/status_badge?stat=downloads)](https://geode-sdk.org/mods/cheeseworks.ads) [![Geometry Dash Version](https://api.geode-sdk.org/v1/mods/cheeseworks.ads/status_badge?stat=gd_version)](https://geode-sdk.org/mods/cheeseworks.ads)
 A growing platform for players to advertise and grow their GD levels to tons of potential new players! Advertise any level ya want, and with a good enough ad, get dozens of new players to try out your levels!
 
 ### [<img src="https://raw.githubusercontent.com/BlueWitherer/ModComments/refs/heads/main/logo.png" width="20" />](https://modcomments.cheeseworks.gay/) Mod Comments
+[![Downloads](https://api.geode-sdk.org/v1/mods/cheeseworks.modcomments/status_badge?stat=downloads)](https://geode-sdk.org/mods/cheeseworks.modcomments) [![Geometry Dash Version](https://api.geode-sdk.org/v1/mods/cheeseworks.modcomments/status_badge?stat=gd_version)](https://geode-sdk.org/mods/cheeseworks.modcomments)
 A platform for users to leave feedback on mods directly through in-game UI. Utilized to its full potential by players and mod developers alike.
 
 ### [<img src="https://raw.githubusercontent.com/BlueWitherer/Ferry/refs/heads/main/logo.png" width="20" />](https://ferry.cheeseworks.gay/) Ferry
+[![Downloads](https://api.geode-sdk.org/v1/mods/cheeseworks.ferry/status_badge?stat=downloads)](https://geode-sdk.org/mods/cheeseworks.ferry) [![Geometry Dash Version](https://api.geode-sdk.org/v1/mods/cheeseworks.ferry/status_badge?stat=gd_version)](https://geode-sdk.org/mods/cheeseworks.ferry)
 A cloud save platform powered by Cloudflare R2 for players to save their GD and Geode settings data to synchronize across multiple devices.
 
 ## [<img src="https://cdn.discordapp.com/emojis/566703589695815682.webp?size=1024" width="20" />](https://steamcommunity.com/id/cheeseworks/myworkshopfiles/) Garry's Mod Addons
@@ -39,6 +47,7 @@ A cloud save platform powered by Cloudflare R2 for players to save their GD and 
 Not much at the moment, but I'm happy to learn more about developing addons for Gmod!
 
 ### [<img src="https://raw.githubusercontent.com/BlueWitherer/FixServerConstraints/refs/heads/main/addon.jpg" width="20" />](https://steamcommunity.com/sharedfiles/filedetails/?id=3497996983) Fix Server Constraints Limit
+[![Geometry Dash Version](https://img.shields.io/steam/downloads/3497996983?logo=steam&logoColor=ffffff&label=Downloads)](https://steamcommunity.com/sharedfiles/filedetails/?id=3497996983)
 A simple addon to fix weld and rope limits being broken on servers for some reason. Include an interface inside the spawnmenu for server admins to easily set constraint variables.
 
 ## [<img src="https://cdn.discordapp.com/emojis/1548668587915616337.webp?size=1024" width="20" />](https://status.cheeseworks.gay/) Servers
