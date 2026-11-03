@@ -46,4 +46,4 @@ Aside from the Discord bot servers, I've written a bunch of HTTP servers for [my
 The bridge between the [Ferry client](https://geode-sdk.org/mods/cheeseworks.ferry) and the Cloudflare R2 object storage containing players' settings data. Uses Argon for authorization of players' accounts, no Geometry Dash account tokens or credentials are processed or stored!
 
 ### [<img src="https://raw.githubusercontent.com/BlueWitherer/moddev-branding-site/refs/heads/main/public/icon.png" width="20" />](https://moddev.cheeseworks.gay/) Mod Developer Branding Site
-The dashboard for mod developers to upload personal branding images to be displayed on the in-game Geode UI of their mods through the [Mod Developer Branding mod](https://geode-sdk.org/mods/cheeseworks.ferry). Uses GitHub's OAuth for authorization, no account credentials are processed or stored!
+The dashboard for mod developers to upload personal branding images to be displayed on the in-game Geode UI of their mods through the [Mod Developer Branding mod](https://geode-sdk.org/mods/cheeseworks.moddevbranding). Uses GitHub's OAuth for authorization, no account credentials are processed or stored!
