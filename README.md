@@ -6,7 +6,7 @@
 Heyo! I'm **Chris**, known online as [Cheeseworks](https://www.youtube.com/@cheese_works/), and I'm a queer 2X-year-old content creator and self-taught programmer. Welcome to my silly GitHub profile! Here you will find loads of interesting hobby projects of mine, feel free to explore! [<img src="https://cdn.discordapp.com/emojis/1548666057651134504.webp?size=1024" width="18" />](https://www.cheeseworks.gay/)
 
 <div align="center">
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://kofi.cheeseworks.gay/)
+<a href="https://kofi.cheeseworks.gay/"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 </div>
 
 ## [<img src="https://cdn.discordapp.com/emojis/1325896195083604080.webp?size=1024" width="20" />](https://www.cheeseworks.gay/) Discord Bots
@@ -39,11 +39,6 @@ A growing platform for players to advertise and grow their GD levels to tons of 
 [![Downloads](https://api.geode-sdk.org/v1/mods/cheeseworks.modcomments/status_badge?stat=downloads)](https://geode-sdk.org/mods/cheeseworks.modcomments) [![Geometry Dash Version](https://api.geode-sdk.org/v1/mods/cheeseworks.modcomments/status_badge?stat=gd_version)](https://geode-sdk.org/mods/cheeseworks.modcomments)
 
 A platform for users to leave feedback on mods directly through in-game UI. Utilized to its full potential by players and mod developers alike.
-
-### [<img src="https://raw.githubusercontent.com/BlueWitherer/Ferry/refs/heads/main/logo.png" width="20" />](https://ferry.cheeseworks.gay/) Ferry
-[![Downloads](https://api.geode-sdk.org/v1/mods/cheeseworks.ferry/status_badge?stat=downloads)](https://geode-sdk.org/mods/cheeseworks.ferry) [![Geometry Dash Version](https://api.geode-sdk.org/v1/mods/cheeseworks.ferry/status_badge?stat=gd_version)](https://geode-sdk.org/mods/cheeseworks.ferry)
-
-A cloud save platform powered by Cloudflare R2 for players to save their GD and Geode settings data to synchronize across multiple devices.
 
 ## [<img src="https://cdn.discordapp.com/emojis/566703589695815682.webp?size=1024" width="20" />](https://steamcommunity.com/id/cheeseworks/myworkshopfiles/) Garry's Mod Addons
 **Lua**
