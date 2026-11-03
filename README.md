@@ -7,7 +7,7 @@ Heyo! I'm Chris, known online as Cheeseworks, and this is my lovely GitHub profi
 When I was a 13-year-old kid, I wanted to learn how to write my own Discord bot. After watching countless tutorials on YouTube, I started making a few very experimental bots, mainly tailored for moderation. This is what inspired me to continue programming, and to this day I still have some Discord bots operating in public Discord servers.
 
 ### [<img src="https://raw.githubusercontent.com/CubicCommunity/Bloqbit/refs/heads/master/favicon.ico" width="20" />](https://bloqbit.cubicstudios.xyz/) Bloqbit
-A feature-rich, general purpose Discord bot! Currently a work-in-progress, but already operates at full capacity in a few public servers of my own. Also has variants planned such as [<img src="https://raw.githubusercontent.com/CubicCommunity/BloqGo/refs/heads/public/favicon.ico" width="15" /> BloqGo](https://bloqbit.cubicstudios.xyz/)
+A feature-rich, general purpose Discord bot! Currently a work-in-progress, but already operates at full capacity in a few public servers of my own. Also has variants planned such as [<img src="https://raw.githubusercontent.com/CubicCommunity/BloqGo/refs/heads/public/favicon.ico" width="15" /> BloqGo](https://bloqbit.cubicstudios.xyz/).
 
 ### [<img src="https://cdn.discordapp.com/emojis/1475673031002161305.webp?size=1024" width="20" />](https://github.com/CubicCommunity/CubicDiscord) Cubic Discord
 An experimental, blazing-fast custom bot for [Cubic Studios's Discord server](https://dsc.gg/cubic) for auto-moderation and other utilities.
@@ -28,6 +28,14 @@ A platform for users to leave feedback on mods directly through in-game UI. Util
 
 ### [<img src="https://raw.githubusercontent.com/BlueWitherer/Ferry/refs/heads/main/logo.png" width="20" />](https://ferry.cheeseworks.gay/) Ferry
 A cloud save platform powered by Cloudflare R2 for players to save their GD and Geode settings data to synchronize across multiple devices.
+
+## [<img src="https://cdn.discordapp.com/emojis/566703589695815682.webp?size=1024" width="20" />](https://steamcommunity.com/id/cheeseworks/myworkshopfiles/) Garry's Mod Addons
+**Lua**
+
+Not much at the moment, but I'm happy to learn more about developing addons for Gmod!
+
+### [<img src="https://raw.githubusercontent.com/BlueWitherer/FixServerConstraints/refs/heads/main/addon.jpg" width="20" />](https://steamcommunity.com/sharedfiles/filedetails/?id=3497996983) Fix Server Constraints Limit
+A simple addon to fix weld and rope limits being broken on servers for some reason. Include an interface inside the spawnmenu for server admins to easily set constraint variables.
 
 ## [<img src="https://cdn.discordapp.com/emojis/1548668587915616337.webp?size=1024" width="20" />](https://status.cheeseworks.gay/) Servers
 **Go**
