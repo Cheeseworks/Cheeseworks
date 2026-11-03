@@ -1,5 +1,5 @@
 # [<img src="https://cdn.discordapp.com/emojis/1566226959132917840.webp?size=1024&animated=true" width="30" />](https://www.cheeseworks.gay/) we gaming
-Heyo! I'm Chris, known online as Cheeseworks, and this is my lovely GitHub profile. Here you will find loads of interesting hobby projects of mine, feel free to explore!
+Heyo! I'm **Chris**, known online as Cheeseworks, and I'm a 2X-year-old queer content creator and self-taught developer. Welcome to my silly GitHub profile! Here you will find loads of interesting hobby projects of mine, feel free to explore!
 
 ## [<img src="https://cdn.discordapp.com/emojis/1325896195083604080.webp?size=1024" width="20" />](https://www.cheeseworks.gay/) Discord Bots
 **JavaScript**, **TypeScript**, **Go**, **C++**, **CMake**
