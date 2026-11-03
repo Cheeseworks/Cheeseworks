@@ -47,3 +47,6 @@ The bridge between the [Ferry client](https://geode-sdk.org/mods/cheeseworks.fer
 
 ### [<img src="https://raw.githubusercontent.com/BlueWitherer/moddev-branding-site/refs/heads/main/public/icon.png" width="20" />](https://moddev.cheeseworks.gay/) Mod Developer Branding Site
 The dashboard for mod developers to upload personal branding images to be displayed on the in-game Geode UI of their mods through the [Mod Developer Branding mod](https://geode-sdk.org/mods/cheeseworks.moddevbranding). Uses GitHub's OAuth for authorization, no account credentials are processed or stored!
+
+## [<img src="https://cdn.discordapp.com/emojis/1549091137409515630.webp?size=1024" width="20" />](https://www.cheeseworks.gay/) AI..?
+Much like with other creative work, I limit my use of AI in programming projects to only help with boosting productivity. **I *do not consent* to my code or any of my work being used to train generative AI**. On that note, using snippets of my code in your projects is fine, but make sure to leave credit if it's a significant amount.
