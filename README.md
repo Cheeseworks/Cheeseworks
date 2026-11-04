@@ -30,12 +30,12 @@ My favorite passion projects I've worked on are mods made using the wonderful [G
 
 A massive troll mod menu jam-packed with dozens of troll features to make your usual GD gameplay just a little more interesting to play... Truly an evil masterpiece.
 
-### [<img src="https://raw.githubusercontent.com/BlueWitherer/PlayerAdvertisements/refs/heads/main/logo.png" width="20" />](https://ads.cheeseworks.gay/) Player Advertisements
+### [<img src="https://raw.githubusercontent.com/Cheeseworks/PlayerAdvertisements/refs/heads/main/logo.png" width="20" />](https://ads.cheeseworks.gay/) Player Advertisements
 [![Downloads](https://api.geode-sdk.org/v1/mods/cheeseworks.ads/status_badge?stat=downloads)](https://geode-sdk.org/mods/cheeseworks.ads) [![Geometry Dash Version](https://api.geode-sdk.org/v1/mods/cheeseworks.ads/status_badge?stat=gd_version)](https://geode-sdk.org/mods/cheeseworks.ads)
 
 A growing platform for players to advertise and grow their GD levels to tons of potential new players! Advertise any level ya want, and with a good enough ad, get dozens of new players to try out your levels!
 
-### [<img src="https://raw.githubusercontent.com/BlueWitherer/ModComments/refs/heads/main/logo.png" width="20" />](https://modcomments.cheeseworks.gay/) Mod Comments
+### [<img src="https://raw.githubusercontent.com/Cheeseworks/ModComments/refs/heads/main/logo.png" width="20" />](https://modcomments.cheeseworks.gay/) Mod Comments
 [![Downloads](https://api.geode-sdk.org/v1/mods/cheeseworks.modcomments/status_badge?stat=downloads)](https://geode-sdk.org/mods/cheeseworks.modcomments) [![Geometry Dash Version](https://api.geode-sdk.org/v1/mods/cheeseworks.modcomments/status_badge?stat=gd_version)](https://geode-sdk.org/mods/cheeseworks.modcomments)
 
 A platform for users to leave feedback on mods directly through in-game UI. Utilized to its full potential by players and mod developers alike.
@@ -45,7 +45,7 @@ A platform for users to leave feedback on mods directly through in-game UI. Util
 
 Not much at the moment, but I'm happy to learn more about developing addons for Gmod!
 
-### [<img src="https://raw.githubusercontent.com/BlueWitherer/FixServerConstraints/refs/heads/main/addon.jpg" width="20" />](https://steamcommunity.com/sharedfiles/filedetails/?id=3497996983) Fix Server Constraints Limit
+### [<img src="https://raw.githubusercontent.com/Cheeseworks/FixServerConstraints/refs/heads/main/addon.jpg" width="20" />](https://steamcommunity.com/sharedfiles/filedetails/?id=3497996983) Fix Server Constraints Limit
 [![Geometry Dash Version](https://img.shields.io/steam/downloads/3497996983?logo=steam&logoColor=ffffff&label=Downloads)](https://steamcommunity.com/sharedfiles/filedetails/?id=3497996983)
 
 A simple addon to fix weld and rope limits being broken on servers for some reason. Include an interface inside the spawnmenu for server admins to easily set constraint variables.
@@ -55,10 +55,10 @@ A simple addon to fix weld and rope limits being broken on servers for some reas
 
 Aside from the Discord bot servers, I've written a bunch of HTTP servers for [my Geode mods](https://geode-sdk.org/mods?developer=bluewitherer), among other stuff...
 
-### [<img src="https://raw.githubusercontent.com/BlueWitherer/ferry-server/refs/heads/main/public/favicon.ico" width="20" />](https://ferry.cheeseworks.gay/) Ferry Server
+### [<img src="https://raw.githubusercontent.com/Cheeseworks/ferry-server/refs/heads/main/public/favicon.ico" width="20" />](https://ferry.cheeseworks.gay/) Ferry Server
 The bridge between the [Ferry client](https://geode-sdk.org/mods/cheeseworks.ferry) and the Cloudflare R2 object storage containing players' settings data. Uses Argon for authorization of players' accounts, no Geometry Dash account tokens or credentials are processed or stored!
 
-### [<img src="https://raw.githubusercontent.com/BlueWitherer/moddev-branding-site/refs/heads/main/public/icon.png" width="20" />](https://moddev.cheeseworks.gay/) Mod Developer Branding Site
+### [<img src="https://raw.githubusercontent.com/Cheeseworks/moddev-branding-site/refs/heads/main/public/icon.png" width="20" />](https://moddev.cheeseworks.gay/) Mod Developer Branding Site
 The dashboard for mod developers to upload personal branding images to be displayed on the in-game Geode UI of their mods through the [Mod Developer Branding mod](https://geode-sdk.org/mods/cheeseworks.moddevbranding). Uses GitHub's OAuth for authorization, no account credentials are processed or stored!
 
 ## [<img src="https://cdn.discordapp.com/emojis/1549091137409515630.webp?size=1024" width="20" />](https://www.cheeseworks.gay/) AI..?
